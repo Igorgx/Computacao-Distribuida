@@ -19,6 +19,13 @@ Este projeto foi desenvolvido para a disciplina de **Computação Distribuída**
 
 A comparação entre os resultados obtidos pelos dois métodos permite verificar se a simulação reproduz corretamente o comportamento previsto pela teoria.
 
+## Relatórios
+
+Os relatórios completos dos exercícios podem ser acessados abaixo:
+
+- [Exercício 1.1](relatorio/Resolução_Exercício1.1.pdf)
+- [Exercício 1.2](relatorio/Resolução_Exercício1.2.pdf)
+
 ## Estrutura do Repositório
 ```
 ├── interface/        # imagens da aplicacao funcionando
