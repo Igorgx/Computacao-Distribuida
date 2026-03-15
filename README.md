@@ -25,6 +25,7 @@ Os relatórios completos dos exercícios podem ser acessados abaixo:
 
 - [Exercício 1.1](relatorio/Resolução_Exercício_1.1.pdf)
 - [Exercício 1.2](relatorio/Resolução_Exercício_1.2.pdf)
+- [Perguntas Extras](relatorio/Perguntas_Extras.pdf)
 
 ## Estrutura do Repositório
 ```
